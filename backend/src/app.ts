@@ -8,4 +8,4 @@ app.use(cors())
 
 app.use('/api/v1',authRouter)
 
-export default app
+export default app  
